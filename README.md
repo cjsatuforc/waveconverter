@@ -28,3 +28,6 @@ decoded data.
 
 Please check out the User Guide for more information:
     doc/user_guide.pdf
+
+This version has the following edits:
+- removed sample data to reduce download size
